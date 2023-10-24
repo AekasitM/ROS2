@@ -1,0 +1,16 @@
+// generated from rosidl_adapter/resource/srv.idl.em
+// with input from my_controller_interfaces/srv/SetTarget.srv
+// generated code does not contain a copyright notice
+
+#include "geometry_msgs/msg/Point.idl"
+
+module my_controller_interfaces {
+  module srv {
+    struct SetTarget_Request {
+      geometry_msgs::msg::Point target;
+    };
+    struct SetTarget_Response {
+      boolean result;
+    };
+  };
+};

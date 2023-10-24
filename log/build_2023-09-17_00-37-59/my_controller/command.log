@@ -1,0 +1,4 @@
+Invoking command in '/home/blackcayonbee/FRA501_6431_6475_WS/build/my_controller': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/blackcayonbee/FRA501_6431_6475_WS/build/my_controller -- -j16 -l16
+Invoked command in '/home/blackcayonbee/FRA501_6431_6475_WS/build/my_controller' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/blackcayonbee/FRA501_6431_6475_WS/build/my_controller -- -j16 -l16
+Invoking command in '/home/blackcayonbee/FRA501_6431_6475_WS/build/my_controller': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/blackcayonbee/FRA501_6431_6475_WS/build/my_controller
+Invoked command in '/home/blackcayonbee/FRA501_6431_6475_WS/build/my_controller' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/blackcayonbee/FRA501_6431_6475_WS/build/my_controller

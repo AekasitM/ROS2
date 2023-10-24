@@ -1,0 +1,11 @@
+/home/blackcayonbee/FRA501_6431_6475_WS/build/turtlesim_control/CMakeFiles/uninstall.dir
+/home/blackcayonbee/FRA501_6431_6475_WS/build/turtlesim_control/CMakeFiles/turtlesim_control_uninstall.dir
+/home/blackcayonbee/FRA501_6431_6475_WS/build/turtlesim_control/CMakeFiles/ament_cmake_python_copy_turtlesim_control.dir
+/home/blackcayonbee/FRA501_6431_6475_WS/build/turtlesim_control/CMakeFiles/ament_cmake_python_build_turtlesim_control_egg.dir
+/home/blackcayonbee/FRA501_6431_6475_WS/build/turtlesim_control/CMakeFiles/test.dir
+/home/blackcayonbee/FRA501_6431_6475_WS/build/turtlesim_control/CMakeFiles/edit_cache.dir
+/home/blackcayonbee/FRA501_6431_6475_WS/build/turtlesim_control/CMakeFiles/rebuild_cache.dir
+/home/blackcayonbee/FRA501_6431_6475_WS/build/turtlesim_control/CMakeFiles/list_install_components.dir
+/home/blackcayonbee/FRA501_6431_6475_WS/build/turtlesim_control/CMakeFiles/install.dir
+/home/blackcayonbee/FRA501_6431_6475_WS/build/turtlesim_control/CMakeFiles/install/local.dir
+/home/blackcayonbee/FRA501_6431_6475_WS/build/turtlesim_control/CMakeFiles/install/strip.dir

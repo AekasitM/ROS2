@@ -1,0 +1,94 @@
+[0.012s] Invoking command in '/home/blackcayonbee/FRA501_6431_6475_WS/build/turtlesim_control': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake /home/blackcayonbee/FRA501_6431_6475_WS/src/turtlesim_control -DCMAKE_INSTALL_PREFIX=/home/blackcayonbee/FRA501_6431_6475_WS/install/turtlesim_control
+[0.044s] -- The C compiler identification is GNU 11.4.0
+[0.079s] -- The CXX compiler identification is GNU 11.4.0
+[0.084s] -- Detecting C compiler ABI info
+[0.126s] -- Detecting C compiler ABI info - done
+[0.131s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.131s] -- Detecting C compile features
+[0.132s] -- Detecting C compile features - done
+[0.134s] -- Detecting CXX compiler ABI info
+[0.184s] -- Detecting CXX compiler ABI info - done
+[0.189s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.189s] -- Detecting CXX compile features
+[0.190s] -- Detecting CXX compile features - done
+[0.191s] -- Found ament_cmake: 1.3.5 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.314s] -- Found Python3: /usr/bin/python3.10 (found version "3.10.12") found components: Interpreter 
+[0.377s] -- Found rclcpp: 16.0.5 (/opt/ros/humble/share/rclcpp/cmake)
+[0.405s] -- Found rosidl_generator_c: 3.1.5 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[0.408s] -- Found rosidl_adapter: 3.1.5 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[0.414s] -- Found rosidl_generator_cpp: 3.1.5 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[0.424s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.437s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.485s] -- Found rmw_implementation_cmake: 6.1.1 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[0.487s] -- Found rmw_fastrtps_cpp: 6.2.3 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+[0.547s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "3.0.2")  
+[0.565s] -- Found FastRTPS: /opt/ros/humble/include  
+[0.596s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[0.602s] -- Looking for pthread.h
+[0.647s] -- Looking for pthread.h - found
+[0.648s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+[0.695s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+[0.695s] -- Found Threads: TRUE  
+[0.808s] -- Found rclpy: 3.3.9 (/opt/ros/humble/share/rclpy/cmake)
+[0.929s] -- Configuring done
+[0.932s] -- Generating done
+[0.933s] -- Build files have been written to: /home/blackcayonbee/FRA501_6431_6475_WS/build/turtlesim_control
+[0.940s] Invoked command in '/home/blackcayonbee/FRA501_6431_6475_WS/build/turtlesim_control' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake /home/blackcayonbee/FRA501_6431_6475_WS/src/turtlesim_control -DCMAKE_INSTALL_PREFIX=/home/blackcayonbee/FRA501_6431_6475_WS/install/turtlesim_control
+[0.942s] Invoking command in '/home/blackcayonbee/FRA501_6431_6475_WS/build/turtlesim_control': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/blackcayonbee/FRA501_6431_6475_WS/build/turtlesim_control -- -j16 -l16
+[0.979s] Built target ament_cmake_python_copy_turtlesim_control
+[1.147s] running egg_info
+[1.147s] creating turtlesim_control.egg-info
+[1.147s] writing turtlesim_control.egg-info/PKG-INFO
+[1.147s] writing dependency_links to turtlesim_control.egg-info/dependency_links.txt
+[1.147s] writing top-level names to turtlesim_control.egg-info/top_level.txt
+[1.148s] writing manifest file 'turtlesim_control.egg-info/SOURCES.txt'
+[1.149s] reading manifest file 'turtlesim_control.egg-info/SOURCES.txt'
+[1.149s] writing manifest file 'turtlesim_control.egg-info/SOURCES.txt'
+[1.178s] Built target ament_cmake_python_build_turtlesim_control_egg
+[1.187s] Invoked command in '/home/blackcayonbee/FRA501_6431_6475_WS/build/turtlesim_control' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/blackcayonbee/FRA501_6431_6475_WS/build/turtlesim_control -- -j16 -l16
+[1.209s] Invoking command in '/home/blackcayonbee/FRA501_6431_6475_WS/build/turtlesim_control': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/blackcayonbee/FRA501_6431_6475_WS/build/turtlesim_control
+[1.214s] -- Install configuration: ""
+[1.214s] -- Installing: /home/blackcayonbee/FRA501_6431_6475_WS/install/turtlesim_control/share/turtlesim_control/environment/pythonpath.sh
+[1.214s] -- Installing: /home/blackcayonbee/FRA501_6431_6475_WS/install/turtlesim_control/share/turtlesim_control/environment/pythonpath.dsv
+[1.214s] -- Installing: /home/blackcayonbee/FRA501_6431_6475_WS/install/turtlesim_control/local/lib/python3.10/dist-packages/turtlesim_control-0.0.0-py3.10.egg-info
+[1.215s] -- Installing: /home/blackcayonbee/FRA501_6431_6475_WS/install/turtlesim_control/local/lib/python3.10/dist-packages/turtlesim_control-0.0.0-py3.10.egg-info/PKG-INFO
+[1.215s] -- Installing: /home/blackcayonbee/FRA501_6431_6475_WS/install/turtlesim_control/local/lib/python3.10/dist-packages/turtlesim_control-0.0.0-py3.10.egg-info/SOURCES.txt
+[1.215s] -- Installing: /home/blackcayonbee/FRA501_6431_6475_WS/install/turtlesim_control/local/lib/python3.10/dist-packages/turtlesim_control-0.0.0-py3.10.egg-info/dependency_links.txt
+[1.215s] -- Installing: /home/blackcayonbee/FRA501_6431_6475_WS/install/turtlesim_control/local/lib/python3.10/dist-packages/turtlesim_control-0.0.0-py3.10.egg-info/top_level.txt
+[1.215s] -- Installing: /home/blackcayonbee/FRA501_6431_6475_WS/install/turtlesim_control/local/lib/python3.10/dist-packages/turtlesim_control
+[1.215s] -- Installing: /home/blackcayonbee/FRA501_6431_6475_WS/install/turtlesim_control/local/lib/python3.10/dist-packages/turtlesim_control/__init__.py
+[1.215s] -- Installing: /home/blackcayonbee/FRA501_6431_6475_WS/install/turtlesim_control/local/lib/python3.10/dist-packages/turtlesim_control/algorithm.py
+[1.215s] -- Installing: /home/blackcayonbee/FRA501_6431_6475_WS/install/turtlesim_control/local/lib/python3.10/dist-packages/turtlesim_control/ros2_interface.py
+[1.238s] Listing '/home/blackcayonbee/FRA501_6431_6475_WS/install/turtlesim_control/local/lib/python3.10/dist-packages/turtlesim_control'...
+[1.238s] Compiling '/home/blackcayonbee/FRA501_6431_6475_WS/install/turtlesim_control/local/lib/python3.10/dist-packages/turtlesim_control/__init__.py'...
+[1.238s] Compiling '/home/blackcayonbee/FRA501_6431_6475_WS/install/turtlesim_control/local/lib/python3.10/dist-packages/turtlesim_control/algorithm.py'...
+[1.239s] Compiling '/home/blackcayonbee/FRA501_6431_6475_WS/install/turtlesim_control/local/lib/python3.10/dist-packages/turtlesim_control/ros2_interface.py'...
+[1.242s] -- Installing: /home/blackcayonbee/FRA501_6431_6475_WS/install/turtlesim_control/lib/turtlesim_control/controller.py
+[1.242s] -- Installing: /home/blackcayonbee/FRA501_6431_6475_WS/install/turtlesim_control/lib/turtlesim_control/scheduler.py
+[1.242s] -- Installing: /home/blackcayonbee/FRA501_6431_6475_WS/install/turtlesim_control/lib/turtlesim_control/pizza_spawner_Foxy.py
+[1.242s] -- Installing: /home/blackcayonbee/FRA501_6431_6475_WS/install/turtlesim_control/lib/turtlesim_control/pizza_spawner_Humble.py
+[1.242s] -- Installing: /home/blackcayonbee/FRA501_6431_6475_WS/install/turtlesim_control/lib/turtlesim_control/pizza_spawner_Iron.py
+[1.243s] -- Installing: /home/blackcayonbee/FRA501_6431_6475_WS/install/turtlesim_control/lib/turtlesim_control/pizza_spawner_Noetic.py
+[1.243s] -- Installing: /home/blackcayonbee/FRA501_6431_6475_WS/install/turtlesim_control/share/turtlesim_control/via_point
+[1.243s] -- Installing: /home/blackcayonbee/FRA501_6431_6475_WS/install/turtlesim_control/share/turtlesim_control/via_point/via_point_Noetic.yaml
+[1.243s] -- Installing: /home/blackcayonbee/FRA501_6431_6475_WS/install/turtlesim_control/share/turtlesim_control/via_point/via_point_Iron.yaml
+[1.243s] -- Installing: /home/blackcayonbee/FRA501_6431_6475_WS/install/turtlesim_control/share/turtlesim_control/via_point/via_point_Humble.yaml
+[1.243s] -- Installing: /home/blackcayonbee/FRA501_6431_6475_WS/install/turtlesim_control/share/turtlesim_control/via_point/via_point_Foxy.yaml
+[1.243s] -- Installing: /home/blackcayonbee/FRA501_6431_6475_WS/install/turtlesim_control/share/turtlesim_control/launch
+[1.243s] -- Installing: /home/blackcayonbee/FRA501_6431_6475_WS/install/turtlesim_control/share/turtlesim_control/launch/launch_script.launch.py
+[1.243s] -- Installing: /home/blackcayonbee/FRA501_6431_6475_WS/install/turtlesim_control/share/ament_index/resource_index/package_run_dependencies/turtlesim_control
+[1.243s] -- Installing: /home/blackcayonbee/FRA501_6431_6475_WS/install/turtlesim_control/share/ament_index/resource_index/parent_prefix_path/turtlesim_control
+[1.243s] -- Installing: /home/blackcayonbee/FRA501_6431_6475_WS/install/turtlesim_control/share/turtlesim_control/environment/ament_prefix_path.sh
+[1.243s] -- Installing: /home/blackcayonbee/FRA501_6431_6475_WS/install/turtlesim_control/share/turtlesim_control/environment/ament_prefix_path.dsv
+[1.243s] -- Installing: /home/blackcayonbee/FRA501_6431_6475_WS/install/turtlesim_control/share/turtlesim_control/environment/path.sh
+[1.243s] -- Installing: /home/blackcayonbee/FRA501_6431_6475_WS/install/turtlesim_control/share/turtlesim_control/environment/path.dsv
+[1.244s] -- Installing: /home/blackcayonbee/FRA501_6431_6475_WS/install/turtlesim_control/share/turtlesim_control/local_setup.bash
+[1.244s] -- Installing: /home/blackcayonbee/FRA501_6431_6475_WS/install/turtlesim_control/share/turtlesim_control/local_setup.sh
+[1.244s] -- Installing: /home/blackcayonbee/FRA501_6431_6475_WS/install/turtlesim_control/share/turtlesim_control/local_setup.zsh
+[1.244s] -- Installing: /home/blackcayonbee/FRA501_6431_6475_WS/install/turtlesim_control/share/turtlesim_control/local_setup.dsv
+[1.244s] -- Installing: /home/blackcayonbee/FRA501_6431_6475_WS/install/turtlesim_control/share/turtlesim_control/package.dsv
+[1.244s] -- Installing: /home/blackcayonbee/FRA501_6431_6475_WS/install/turtlesim_control/share/ament_index/resource_index/packages/turtlesim_control
+[1.244s] -- Installing: /home/blackcayonbee/FRA501_6431_6475_WS/install/turtlesim_control/share/turtlesim_control/cmake/turtlesim_controlConfig.cmake
+[1.244s] -- Installing: /home/blackcayonbee/FRA501_6431_6475_WS/install/turtlesim_control/share/turtlesim_control/cmake/turtlesim_controlConfig-version.cmake
+[1.244s] -- Installing: /home/blackcayonbee/FRA501_6431_6475_WS/install/turtlesim_control/share/turtlesim_control/package.xml
+[1.245s] Invoked command in '/home/blackcayonbee/FRA501_6431_6475_WS/build/turtlesim_control' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/blackcayonbee/FRA501_6431_6475_WS/build/turtlesim_control

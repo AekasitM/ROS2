@@ -1,0 +1,7 @@
+{
+  "package_name": "my_controller_interfaces",
+  "non_idl_tuples": [
+    "/home/blackcayonbee/FRA501_6431_6475_WS/src/my_controller_interfaces:srv/SetTarget.srv",
+    "/home/blackcayonbee/FRA501_6431_6475_WS/src/my_controller_interfaces:srv/SendPosition.srv"
+  ]
+}

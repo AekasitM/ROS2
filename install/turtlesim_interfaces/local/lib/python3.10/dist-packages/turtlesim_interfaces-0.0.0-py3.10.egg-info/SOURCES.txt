@@ -1,0 +1,8 @@
+setup.py
+turtlesim_interfaces/__init__.py
+turtlesim_interfaces.egg-info/PKG-INFO
+turtlesim_interfaces.egg-info/SOURCES.txt
+turtlesim_interfaces.egg-info/dependency_links.txt
+turtlesim_interfaces.egg-info/top_level.txt
+turtlesim_interfaces/srv/__init__.py
+turtlesim_interfaces/srv/_send_position.py

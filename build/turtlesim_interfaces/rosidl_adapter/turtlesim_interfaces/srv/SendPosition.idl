@@ -1,0 +1,16 @@
+// generated from rosidl_adapter/resource/srv.idl.em
+// with input from turtlesim_interfaces/srv/SendPosition.srv
+// generated code does not contain a copyright notice
+
+#include "geometry_msgs/msg/Point.idl"
+
+module turtlesim_interfaces {
+  module srv {
+    struct SendPosition_Request {
+      geometry_msgs::msg::Point position;
+    };
+    struct SendPosition_Response {
+      uint8 structure_needs_at_least_one_member;
+    };
+  };
+};

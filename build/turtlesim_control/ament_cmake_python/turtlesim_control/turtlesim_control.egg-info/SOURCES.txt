@@ -1,0 +1,8 @@
+setup.py
+turtlesim_control/__init__.py
+turtlesim_control/algorithm.py
+turtlesim_control/ros2_interface.py
+turtlesim_control.egg-info/PKG-INFO
+turtlesim_control.egg-info/SOURCES.txt
+turtlesim_control.egg-info/dependency_links.txt
+turtlesim_control.egg-info/top_level.txt

@@ -1,0 +1,6 @@
+{
+  "package_name": "turtlesim_interfaces",
+  "non_idl_tuples": [
+    "/home/blackcayonbee/FRA501_6431_6475_WS/src/turtlesim_interfaces:srv/SendPosition.srv"
+  ]
+}
